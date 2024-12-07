@@ -1,4 +1,5 @@
 <style>
+  /* GitHub README CSS */
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -24,6 +25,7 @@
     margin-bottom: 1em;
   }
 </style>
+
 # Analysis of Movie Box Office Success Factors
 
 ## **Introduction**
