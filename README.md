@@ -13,13 +13,13 @@ The dataset used for this analysis was sourced from Kaggle's *TMDB 5000 Movie Da
 - **Plotly:** For interactive data visualization
 
 ## **Key Questions Addressed in This Project:**
-- **Trends in Film Industry:** Invested Budget and Box Office Revenue Over the Years
+- **Trends in Film Industry: Invested Budget and Box Office Revenue Over the Years**
 - **Analysis of the Top 10 Highest-Grossing Films**
 - **Top 10 Films by Budget and Number of Votes**
 - **The Most Successful Directors Based on Box Office Revenue**
 - **The Most Successful Actors Based on Box Office Performance and Number of Films Appeared**
 - **Insights into High-Grossing Genres**
 - **Analysis of the Evolution of Popular Genres Over Time**
-- **Seasonal Trends:** Are Certain Genres More Popular in Specific Months?
+- **Seasonal Trends: Are Certain Genres More Popular in Specific Months?**
 - **Exploring the Relationship Between a Film's Budget, Revenue, Vote Count, and Ratings**
-- ** Key Characteristics of Films with High Returns on Investment (ROI)**
+- **Key Characteristics of Films with High Returns on Investment (ROI)**
