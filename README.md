@@ -1,31 +1,3 @@
-<style>
-  /* GitHub README CSS */
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    padding: 20px;
-  }
-  h1, h2, h3 {
-    color: #333;
-  }
-  h1 {
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
-  }
-  h2 {
-    font-size: 2em;
-    margin-bottom: 0.5em;
-  }
-  h3 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-  }
-  p {
-    margin-bottom: 1em;
-  }
-</style>
-
 # Analysis of Movie Box Office Success Factors
 
 ## **Introduction**
@@ -50,4 +22,4 @@ The dataset used for this analysis was sourced from Kaggle's *TMDB 5000 Movie Da
 - **Analysis of the Evolution of Popular Genres Over Time**
 - **Seasonal Trends:** Are Certain Genres More Popular in Specific Months?
 - **Exploring the Relationship Between a Film's Budget, Revenue, Vote Count, and Ratings**
-- **Defining Key Characteristics of Films with High Returns on Investment (ROI)**
+- ** Key Characteristics of Films with High Returns on Investment (ROI)**
