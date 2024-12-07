@@ -1,5 +1,5 @@
-# [Analysis of Movie Box Office Success Factors](https://colab.research.google.com/drive/1-8m0FyOccRgp0SA--JZYh5MOP3vvNEah#scrollTo=dXS0RFO6_F8z)
-[View in Colab by clicking the link](https://colab.research.google.com/drive/1-8m0FyOccRgp0SA--JZYh5MOP3vvNEah#scrollTo=dXS0RFO6_F8z)
+# [Analysis of Movie Box Office Success Factors](https://colab.research.google.com/drive/1-8m0FyOccRgp0SA--JZYh5MOP3vvNEah{:target="_blank"})
+[View in Colab by clicking the link](https://colab.research.google.com/drive/1-8m0FyOccRgp0SA--JZYh5MOP3vvNEah?usp=sharing)
 ## **Introduction**
 The dataset used for this analysis was sourced from Kaggle's *TMDB 5000 Movie Dataset*. The dataset contains movie data from 1916 to 2016.
 
